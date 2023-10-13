@@ -60,7 +60,7 @@ li{
 }
 
 p{
-    width: 100%;
+    width: 95%;
     padding: 10px;
     line-height: 1.5;
 }
@@ -102,6 +102,11 @@ h4{
     color: black;
     font-size: 18px;
     padding: 10px;
+}
+
+.lower-div-contents a{
+    display: contents;
+    text-decoration: none;
 }
 
 .lower-div-contents .cards img{
